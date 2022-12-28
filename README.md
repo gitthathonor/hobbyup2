@@ -172,4 +172,77 @@ ALTER TABLE `claim` ADD CONSTRAINT `PK_CLAIM` PRIMARY KEY (
 );
 
 ```
+</br></br>
+
+## :movie_camera: 제작 기간 & 팀원 소개
+* 2022년 11월 16일 ~ 2022년 12월 22일
+| 이름 | 깃허브 링크 | 프론트&백엔드 |
+| --- | --- | --- |
+| 이현성 | seong9566(https://github.com/seong9566) | 프론트 |
+| 정충섭 | jungchungsub(https://github.com/jungchungsub) | 프론트 |
+| 조현나 | hyonna12(https://github.com/hyonna12) | 백엔드 |
+| 정수영 | gitthathonor(https://github.com/gitthathonor) | 백엔드 |
+
+> **조원 역할 및 기능 개발 설명**
+> 
+> 
+> > **이현성 Front**
+> > 
+> > - Figma를 이용해서 화면 설계 및 사용자 시나리오 작성
+> > - 회원가입, 로그인, 프로필 페이지 작업 by flutter
+> > - 각 페이지 RiverPod 라이브러리로 상태관리 작업
+> > - 아임포트 API를 통한 결제 API 구현
+> 
+> > **정충섭 Front**
+> > 
+> > - 메인, 검색, 카테고리, 레슨, 결제 페이지 작업 by flutter
+> > - 각 페이지 RiverPod 라이브러리로 상태관리 작업
+> > - 더미데이터 작성
+> 
+> > **조현나 Back**
+> > 
+> > - 프로필 CRUD, 찜하기 기능, 마이페이지 기능 작업
+> > - 관리자 페이지 작업
+> > - 카카오 OAuth2.0 로그인 적용
+> 
+> > **정수영 Back**
+> > 
+> > - 회원가입, 로그인, 레슨 CRUD, 검색, 카테고리 추천, 결제 기능 작업
+> > - 백엔드 서버 세팅
+> > - Spring Security, JWT 적용
+> > - 테이블 구성
+> > - AWS의 EBS를 이용해 RDS와 함께 배포
+
+<br/>
+
+## :wrench: 개발 환경
+- Tool
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+- FrontEnd
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+- BackEnd
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+- Database
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+- Team
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+
+
 
