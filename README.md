@@ -174,14 +174,16 @@ ALTER TABLE `claim` ADD CONSTRAINT `PK_CLAIM` PRIMARY KEY (
 ```
 </br></br>
 
-## :movie_camera: 제작 기간 & 팀원 소개
+## :movie_camera: 1. 제작 기간 & 팀원 소개
 * 2022년 11월 16일 ~ 2022년 12월 22일
+
 | 이름 | 깃허브 링크 | 프론트&백엔드 |
-| --- | --- | --- |
+| ----- | --- | --- |
 | 이현성 | seong9566(https://github.com/seong9566) | 프론트 |
 | 정충섭 | jungchungsub(https://github.com/jungchungsub) | 프론트 |
 | 조현나 | hyonna12(https://github.com/hyonna12) | 백엔드 |
 | 정수영 | gitthathonor(https://github.com/gitthathonor) | 백엔드 |
+</br>
 
 > **조원 역할 및 기능 개발 설명**
 > 
@@ -215,7 +217,7 @@ ALTER TABLE `claim` ADD CONSTRAINT `PK_CLAIM` PRIMARY KEY (
 
 <br/>
 
-## :wrench: 개발 환경
+## :wrench: 2. 개발 환경
 - Tool
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -234,6 +236,7 @@ ALTER TABLE `claim` ADD CONSTRAINT `PK_CLAIM` PRIMARY KEY (
 
 - Database
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![h20](https://img.shields.io/badge/-h2-lightgrey)
 
 - Team
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -242,6 +245,16 @@ ALTER TABLE `claim` ADD CONSTRAINT `PK_CLAIM` PRIMARY KEY (
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+## :bulb: 3. 사용자 시나리오
+
+### 회원가입 및 로그인
+![회원가입_hobbyup](https://user-images.githubusercontent.com/95184357/209790064-d0dd06fb-2684-471d-8bf7-54d7d98aa311.gif)
+![로그인_hobbyup](https://user-images.githubusercontent.com/95184357/209790173-675d3fcd-bb4e-4264-ad4a-9b80995f1486.gif)
+
+### 프로필 등록, 수정
+![프로필 등록하기_hobbypup](https://user-images.githubusercontent.com/95184357/209791540-2f6a1a65-ec25-4c01-b1dd-96413fb79108.gif)
+![프로필 수정하기_hobbyup](https://user-images.githubusercontent.com/95184357/209791659-5ad4cf41-9121-4171-8561-ccf98ca4ca71.gif)
 
 
 
