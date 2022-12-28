@@ -2,12 +2,14 @@
 온라인 취미 클래스 플랫폼 hobbyup
 </br>
 
+
 ## :triangular_flag_on_post: 프로젝트 개요
 </br>
 
 ### 레퍼런스 사이트(크몽)
 
 ![image](https://user-images.githubusercontent.com/95184357/209761704-869e35aa-3d01-41f5-a18c-d26fb38bdb5f.png)
+
 '크몽'의 여러가지 서비스들 중에서 다양한 카테고리에 대한 전문성을 상품화하여 거래하는 서비스를 참조하였다.
 
 ### 개발 이유
